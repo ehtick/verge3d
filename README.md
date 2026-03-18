@@ -6,7 +6,7 @@ Verge3D can be used to develop 3D configurators, e-commerce and e-learning syste
 
 ## Features
 
-* WebGL 1.0/2.0. Support for WebGPU is WIP.
+* WebGL 1.0/2.0. Support for WebGPU is under consideraton.
 * glTF 2.0 with multiple extensions and optional compression.
 * Visual coding environment called Puzzles.
 * PBR materials customizable with native Blender, 3ds Max, or Maya node system.
